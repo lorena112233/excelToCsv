@@ -14,3 +14,6 @@ _pip install python-docx_
 
 _pip install xlrd_
 
+
+## License:
+[MIT License](LICENSE)
