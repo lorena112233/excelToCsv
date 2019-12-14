@@ -7,7 +7,10 @@ modules :
 * python-docx, 
 * xlrd
 
+
 _pip install pandas_
+
 _pip install python-docx_
+
 _pip install xlrd_
 
