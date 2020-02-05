@@ -1,7 +1,7 @@
 import pandas
 from docx import Document
 
-from globalVar import *
+from globalVar import G_saltosDeLinea, G_file
 
 """
 NOTA: imported PANDAS to work with 
