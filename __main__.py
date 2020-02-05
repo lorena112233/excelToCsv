@@ -28,7 +28,7 @@ def readFromExcel():
     print("Leyendo fichero / Reading file")
 
     # En este caso, no hay ni columna ni fila de encabezado, por lo que lo indico = NONE
-    info = pandas.read_excel(G_file + 'welcomeLetters.xlsx', index_col=None, header=None)
+    info = pandas.read_excel(G_file + '/welcomeLetters.xlsx', index_col=None, header=None)
 
     #print(info)
     crearDocx(info)
